@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed">
+    <void property="booked">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed">
+    <void property="booked">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed">
+    <void property="booked">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed">
+    <void property="booked">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+  <void method="add">
+   <object class="application.model.SunBed"/>
+  </void>
+ </object>
+</java>

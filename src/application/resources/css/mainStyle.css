@@ -1,0 +1,41 @@
+.text-field
+{
+    -fx-background-color: #393e46 ;
+    -fx-font-family: "Helvetica" ;
+    -fx-font-size: 15px ;
+    -fx-text-fill: white ;
+}
+
+#sun_bed_btn_style
+{
+    -fx-font-family: "MV Boli" ;
+    -fx-font-size: 20px ;
+    -fx-text-fill: black ;
+}
+
+#submit_btn_style
+{
+    -fx-background-color: yellow ;
+    -fx-font-family: "Comic Sans MS" ;
+    -fx-font-size: 14px ;
+}
+
+#end_day_btn_style
+{
+    -fx-background-color: red ;
+    -fx-font-family: "Helvetica" ;
+    -fx-font-size: 20px ;
+    -fx-text-fill: white ;
+}
+
+.scroll-bar .thumb
+{
+   /* -fx-background-color: black ;         For the dark theme */
+   -fx-background-color: #393e46 ;          /* For the light theme */
+}
+
+.scroll-bar .track
+{
+   /* -fx-background-color: #393e46 ;       For the dark theme */
+   -fx-background-color: white ;            /* For the light theme */
+}
